@@ -24,7 +24,7 @@ Fast cars fan, traveler, and photographer._ &nbsp; :rocket:
 [<img width="50" height="50" src="./img/css.svg">](https://www.w3.org/Style/CSS/Overview.en.html "CSS: Cascading Style Sheets")&emsp;
 
 
-<br/><br/><br/>
+<br/><br/>
 #### &emsp; :earth_americas: &nbsp; _Find me around the web_ <br/>
  > &emsp;
 [<img width="30" height="30" src="./img/linkedin.svg">](https://www.linkedin.com/in/szymon-jozefczuk "Linkedin")&emsp; &nbsp;

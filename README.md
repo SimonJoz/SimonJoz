@@ -78,5 +78,4 @@ Fast cars fan, traveler, and photographer._ &nbsp; :rocket:
 <img width="500" height="400" src="./img/AWS-DEV.png" title="AWS Certified Developer - Associate">
 <img width="500" height="400" src="./img/AWS-SA.png" title="AWS Certified Solutions Architect - Associate">
 <img width="500" height="400" src="./img/Kafka.png" title="Confluent Certified Developer for Apache Kafka">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="400" height="400" src="./img/Oracle_Java_SE_11_Developer.jpg" title="Oracle Java SE 11 Developer Professional">
+<img width="500" height="400" src="./img/Oracle_Java_SE_11_Developer.jpg" title="Oracle Java SE 11 Developer Professional">

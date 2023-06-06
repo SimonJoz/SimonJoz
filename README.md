@@ -75,3 +75,10 @@ Fast cars fan, traveler, and photographer._ &nbsp; :rocket:
   </tr>
 </table>
 
+<h1 align="center"> Certifications </h1>
+
+---
+
+<img width="320" height="320" src="./assets/AWS-DEV.png" title="AWS Certified Developer - Associate">
+<img width="320" height="320" src="./assets/AWS-SA.png" title="AWS Certified Solutions Architect - Associate">
+<img width="320" height="320" src="./assets/Kafka.png" title="Confluent Certified Developer for Apache Kafka">

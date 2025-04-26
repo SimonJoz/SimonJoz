@@ -15,8 +15,8 @@
 </table>
 <br/>
 <div align="center">
- <img width="240" height="170" src="./img/AWS-DEV.png" title="AWS Certified Developer - Associate">
- <img width="240" height="170" src="./img/AWS-SA.png" title="AWS Certified Solutions Architect - Associate">
- <img width="240" height="170" src="./img/Kafka.png" title="Confluent Certified Developer for Apache Kafka">
- <img width="240" height="170" src="./img/Oracle_Java_SE_11_Developer.jpg" title="Oracle Java SE 11 Developer Professional">
+ <img width="200" height="150" src="./img/AWS-DEV.png" title="AWS Certified Developer - Associate">
+ <img width="200" height="150" src="./img/AWS-SA.png" title="AWS Certified Solutions Architect - Associate">
+ <img width="200" height="150" src="./img/Kafka.png" title="Confluent Certified Developer for Apache Kafka">
+ <img width="200" height="150" src="./img/Oracle_Java_SE_11_Developer.jpg" title="Oracle Java SE 11 Developer Professional">
 </div>
